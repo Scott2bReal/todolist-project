@@ -1,3 +1,5 @@
+gemspec
+
 source 'https://rubygems.org'
 
 ruby '2.5.0'
@@ -7,3 +9,4 @@ gem 'minitest-reporters', '~> 1.1'
 gem 'stamp'
 gem 'rake'
 gem 'find'
+gem 'pry'
